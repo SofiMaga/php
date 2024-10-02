@@ -4,7 +4,7 @@ $nombre ="Sofi";
 $edad = 18;
 $num1 = 20;
 $num2 = 15;
-echo "Hola " ,$nombre, " tengo ",$edad, " años";
+echo "Hola que tal" ,$nombre, " tengo ",$edad, " años";
 
 echo "<br>Suma:" .$num1 + $num2;
 echo "<br>Resta:" .$num1 - $num2;
